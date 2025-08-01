@@ -1,4 +1,4 @@
-## 👋 Hi therem I'm Karla! 👋
+## 👋 Hi there! My name is Karla! 👋
 
 I'm a Computer Science student at San José State University with a passion for technology, collaboration, and continuous learning. I'm currently exploring the fields of:
 
@@ -19,4 +19,4 @@ I am currently a part of the **AI/ML Fellowship at Break Through Tech**, where s
 
 ---
 
-### 🚀 I’m currently looking for roles or internships where I can grow, contribute, and explore where I want to go in tech.
+### 🚀 I’m currently looking for roles or internships where I can grow, contribute, and explore where I want to go in tech. You can reach me at karlaa09861@gmail.com
