@@ -20,3 +20,4 @@ I am currently a part of the **AI/ML Fellowship at Break Through Tech**, where s
 ---
 
 ### 🚀 I’m currently looking for roles or internships where I can grow, contribute, and explore where I want to go in tech. You can reach me at karlaa09861@gmail.com
+- LinkedIn: https://www.linkedin.com/in/karla-nguyen/
