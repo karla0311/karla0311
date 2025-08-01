@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi therem I'm Karla! 👋
 
-<!--
-**karla0311/karla0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at San José State University with a passion for technology, collaboration, and continuous learning. I'm currently exploring the fields of:
 
-Here are some ideas to get you started:
+- 🖥️ Front-End Development  
+- 🤖 Machine Learning & AI  
+- 📦 Product Management  
+- 🧠 IT & Tech Education  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently a part of the **AI/ML Fellowship at Break Through Tech**, where so far I have earned a certification from eCornell for Machine Learning and will work on real-world machine learning projects with industry mentors and more.
+
+---
+
+### 🔧 My Top Skills
+- 💡 Quick Learner & Problem Solver  
+- 💬 Effective Communication  
+- 📋 Organized & Detail-Oriented  
+- 🧠 Technical Proficiency in Python, HTML/CSS, JavaScript, Java  
+
+---
+
+### 🚀 I’m currently looking for roles or internships where I can grow, contribute, and explore where I want to go in tech.
